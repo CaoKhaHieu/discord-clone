@@ -54,6 +54,19 @@ LIVEKIT_API_SECRET=
 NEXT_PUBLIC_LIVEKIT_URL=
 ```
 
+### Database Connect
+
+https://app.planetscale.com/caokhahieu9/discord
+
+### Cloud Storage 
+
+https://uploadthing.com/dashboard/gz9zsjv0ld/api-keys
+
+
+### VideoCall
+
+https://cloud.livekit.io/projects/p_2kzyv7tnram/settings/keys
+
 ### Setup Prisma
 
 Add MySQL Database (I used PlanetScale)
